@@ -1,0 +1,7 @@
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Tarea #2\bin\Debug\Tarea #2.exe.config
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Tarea #2\bin\Debug\Tarea #2.exe
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Tarea #2\bin\Debug\Tarea #2.pdb
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Tarea #2\obj\Debug\Tarea #2.csproj.AssemblyReference.cache
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Tarea #2\obj\Debug\Tarea #2.csproj.CoreCompileInputs.cache
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Tarea #2\obj\Debug\Tarea #2.exe
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Tarea #2\obj\Debug\Tarea #2.pdb

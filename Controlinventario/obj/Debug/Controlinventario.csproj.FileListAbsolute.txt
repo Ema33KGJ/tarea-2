@@ -1,0 +1,7 @@
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Controlinventario\bin\Debug\Controlinventario.exe.config
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Controlinventario\bin\Debug\Controlinventario.exe
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Controlinventario\bin\Debug\Controlinventario.pdb
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Controlinventario\obj\Debug\Controlinventario.csproj.AssemblyReference.cache
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Controlinventario\obj\Debug\Controlinventario.csproj.CoreCompileInputs.cache
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Controlinventario\obj\Debug\Controlinventario.exe
+C:\Users\Emanuelle\OneDrive - Universidad Hispanoamericana\Escritorio\programacion 2\Controlinventario\obj\Debug\Controlinventario.pdb

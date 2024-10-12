@@ -1,0 +1,101 @@
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace Clase1uh
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // variables de tipo entero
+            int num1 = 0;           // 32bits
+            int num2, num3;
+            long larga = 1324567;  // 64 bits
+            byte b = 255;          // bits
+
+            // tipos de datos flotantes
+            float flotante = 5.6f;   //32 bits
+            double doble = 13.46;    // 64 bits
+            decimal dec = 3.124678m; // 128 bits
+
+            // caracteres
+            string nombre = "hoy es viernes 20 de setiembre";  // string es una cadena de caracteres  ""
+            char c= 'S';
+            string valor = "2";
+
+            // booleanos
+            bool boleano = false;
+
+            // variable y dinamico
+
+            var variable = 25.3;   // se utiliza cualquier tipo de dato
+            
+            dynamic dinamica =  25.3; // variable de valor dinamico
+            dinamica = "textos";
+            dinamica = false;
+            dinamica = 20;
+            dinamica = 'B';
+
+            num1 = 4;
+            num2 = 5;
+            float total = num1 + num2;
+            int resta = num1 - num2;
+
+            Console.WriteLine(nombre);
+            Console.WriteLine(total);
+         //   Console.WriteLine("Resta es: " +  resta);
+            //Console.WriteLine("Digite nombre:");
+            //nombre = Console.ReadLine();  // console readline lee texto
+            //Console.WriteLine("Mi nombre es:" +  nombre);
+
+            //Console.WriteLine("digite un numero");
+            //num1 = int.Parse(Console.ReadLine());   // convertir string a numero entero 
+            //Console.WriteLine("Digite otro numero");
+            //num2 = int.Parse(Console.ReadLine());   //// Parse int "10" ==> int(10) == > num2
+
+            //flotante = float.Parse(Console.ReadLine());  // convertir string a numero flotante
+            //doble = double.Parse(Console.ReadLine()); // convertir string a numero double
+
+
+            // +  - * /  operados matematicos
+            // + se para concatenar
+            int resultado = num1 * num2;
+            total = num1 + num2;
+            //Console.WriteLine("La suma de: " + num1 + "+" + num2 + "=" + total);  // concatenacion
+            //Console.WriteLine("La multipicacion de {0} x {1} = {2}",num1, num2,resultado); //referencia
+
+            // contador y acumulador
+            float contador = 5;
+           // Console.WriteLine(contador /= 2);
+            
+            contador = contador + 1;
+          
+            contador++;  // resultado 1
+            ++contador;  // 1
+            contador--;  // -1
+            --contador;  // -1
+            contador += 2; // 2
+            contador *= 2; // 0
+            contador -= 2;   // -2
+
+            // acumuladores
+            float salario0 = 100;
+            float salario1 = 200;
+            float salario2 = 300;
+
+            total += salario0;
+            total += salario1;
+            total += salario2;
+
+            Console.WriteLine(total);
+            Console.Read();
+
+
+        }
+    }
+}
